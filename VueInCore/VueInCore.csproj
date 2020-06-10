@@ -4,5 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="vueCode\**" />
+    <Content Remove="vueCode\**" />
+    <EmbeddedResource Remove="vueCode\**" />
+    <None Remove="vueCode\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="TextFile.txt" />
+  </ItemGroup>
+
 
 </Project>
