@@ -342,3 +342,4 @@ VueInNetCore/node_modules/
 VueInNetCore/wwwroot/
 # BeatPulse healthcheck temp database
 healthchecksdb
+/VueInCore/static
