@@ -29,6 +29,7 @@
     <None Remove="README.md" />
     <None Remove=".eslintignore" />
     <None Remove="package.json" />
+    <None Remove="package.json" />
     <None Remove=".editorconfig" />
     <None Remove="TextFile.txt" />
   </ItemGroup>
