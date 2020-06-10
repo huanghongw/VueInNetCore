@@ -308,7 +308,7 @@ __pycache__/
 
 # Tabs Studio
 *.tss
-
+*.suo
 # Telerik's JustMock configuration file
 *.jmconfig
 
@@ -335,6 +335,10 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-
+.vs/
+VueInNetCore/bin/
+VueInNetCore/obj/
+VueInNetCore/node_modules/
+VueInNetCore/wwwroot/
 # BeatPulse healthcheck temp database
 healthchecksdb
